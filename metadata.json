@@ -1,0 +1,5 @@
+{
+  "name": "Compliance Copilot",
+  "description": "An AI-powered governance assistant that retrieves regulations, analyzes AI models, explains decisions, and generates audit-ready compliance reports.",
+  "requestFramePermissions": []
+}
